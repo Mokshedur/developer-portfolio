@@ -10,21 +10,31 @@ h1{
 }
 section{
   display: flex;
+  margin: 150px;
 }
 .half-width{
   display: 50%;
 }
 .half-width img{
-  width: 100%;
+  width: 80%;
+  display: 50%;
 }
 .link-button{
   text-decoration: none;
   background-color:#FF6F52;
   padding: 10px 40px;
   border-radius: 5px;
+  margin: 100px;
 }
 .top-banner{
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+
+}
+.dream-big{
+  background-image: url(images/dream-bg.png);
+ background-repeat: no-repeat;
+ background-position: right;
+
 
 }
